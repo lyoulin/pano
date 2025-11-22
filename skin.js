@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.9/20995
 // Filename: map_popup.ggsk
-// Generated 2025-11-22T16:04:43
+// Generated 2025-11-22T23:55:56
 
 function pano2vrSkin(player,base) {
 	player.addVariable('image_popup', 2, false, { ignoreInState: 0  });
@@ -1562,43 +1562,43 @@ function pano2vrSkin(player,base) {
 				me.__.ggCurrentLogicStateExternalUrl = newLogicStateExternalUrl;
 				me.__.style.transition='';
 				if (me.__.ggCurrentLogicStateExternalUrl == 0) {
-					me.__.ggSetImage("images/展示图片/中心湖凉厅.jpg");
+					me.__.ggSetImage("images/中心湖凉厅.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 1) {
-					me.__.ggSetImage("images/展示图片/行人休息处.jpg");
+					me.__.ggSetImage("images/行人休息处.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 2) {
-					me.__.ggSetImage("images/展示图片/儿童游乐区.jpg");
+					me.__.ggSetImage("images/儿童游乐区.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 3) {
-					me.__.ggSetImage("images/展示图片/李子树.jpg");
+					me.__.ggSetImage("images/李子树.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 4) {
-					me.__.ggSetImage("images/展示图片/呼钢公园健身区.jpg");
+					me.__.ggSetImage("images/呼钢公园健身区.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 5) {
-					me.__.ggSetImage("images/展示图片/健身活动区.jpg");
+					me.__.ggSetImage("images/健身活动区.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 6) {
-					me.__.ggSetImage("images/展示图片/呼钢公园一角.jpg");
+					me.__.ggSetImage("images/呼钢公园一角.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 7) {
-					me.__.ggSetImage("images/展示图片/呼钢公园小路.jpg");
+					me.__.ggSetImage("images/呼钢公园小路.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 8) {
-					me.__.ggSetImage("images/展示图片/呼钢公园乒乓球活动场地.jpg");
+					me.__.ggSetImage("images/呼钢公园乒乓球活动场地.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 9) {
-					me.__.ggSetImage("images/展示图片/呼钢公园篮球场.jpg");
+					me.__.ggSetImage("images/呼钢公园篮球场.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 10) {
-					me.__.ggSetImage("images/展示图片/呼钢公园健身区2.jpg");
+					me.__.ggSetImage("images/呼钢公园健身区2.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 11) {
-					me.__.ggSetImage("images/展示图片/呼钢公园健步道.jpg");
+					me.__.ggSetImage("images/呼钢公园健步道.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 12) {
-					me.__.ggSetImage("images/展示图片/河公园凉厅.jpg");
+					me.__.ggSetImage("images/河公园凉厅.jpg");
 				}
 				else if (me.__.ggCurrentLogicStateExternalUrl == 13) {
 					me.__.ggSetImage("images/school1.jpg");
@@ -5480,13 +5480,7 @@ me._marker_active.style.transform=hs; });
 			}
 		}
 		me._ht_info.onclick=function (e) {
-			if (
-				(
-					((player._(me.hotspot.title) == "school"))
-				)
-			) {
-				player.setVariableValue('vis_showpic', Number("21.00"));
-			}
+			player.setVariableValue('vis_showpic', Number("21.00"));
 			player.setVariableValue('image_popup', true);
 			player.triggerEvent('hsproxyclick', {'id': me.hotspot.id, 'url': me.hotspot.url});
 		}

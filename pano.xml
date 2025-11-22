@@ -28,7 +28,7 @@
         <source url="media/_patch1.mp4"/>
       </video>
       <image tilt="-25.180" fov="10.230" width="256" handcursor="0" rotx="56.600" clickmode="0" height="256" popbackmode="0" stretch="1.491" hidepinned="0" pan="-8.690" rotz="-0.950" id="Element02" popoutscaling="100" roty="-2.110">
-        <source url="media/_patch_3 .png"/>
+        <source url="media/_patch_3 -1.png"/>
       </image>
     </media>
     <transition zoomafteroutfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomin="0" zoomafterinfov="140" zoomout="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="40"/>
@@ -181,7 +181,7 @@
     </hotspots>
     <media>
       <video fov="24.260" nodechangekeep="0" width="768" handcursor="1" rotx="0.000" tiltsize="10.000" popbackmode="0" level="1.000" loop="1" hidepinned="0" pan="-101.870" pansize="10.000" rotz="0.000" id="Element01" ambientlevel="0.000" field="90.000" tilt="-6.130" startmutedmobile="1" clickmode="2" height="768" mode="3" stretch="1.000" popoutscaling="100" roty="0.000">
-        <source url="media/_patch-3.mp4"/>
+        <source url="media/_patch-3-1.mp4"/>
       </video>
     </media>
     <transition zoomafteroutfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomin="0" zoomafterinfov="140" zoomout="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="40"/>
