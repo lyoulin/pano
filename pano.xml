@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" appversion="7.1.9" apprev="20995" start="node17">
+  <panorama id="node17">
+    <input width="2617" levelbias="0.400" overlap="1" levelingpitch="0" height="2617" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0">
+      <level preload="0" width="2617" height="2617" predecode="0"/>
+      <level preload="0" width="1308" height="1308" predecode="0"/>
+      <level preload="0" width="654" height="654" predecode="0"/>
+      <level preload="1" width="327" height="327" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="245.514">
+      <start tilt="0.86" projection="4" fov="100" pan="-5.51"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node17" source="" customnodeid="" description="" comment="" longitude="111.625921" latitude="40.842387" altitude="795.47" info="" heading="245.514" title="恒大翡翠华庭首期大门" datetime="2025/9/14 星期日 14:11" copyright="" tags="外部环境|小区" author=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label textcolor="0x000000" backgroundalpha="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" background="1" borderalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="10.24" description="" title="小区中心湖" skinid="ht_node" distance="107.75" pan="0.440005" id="Point01" target="-128.116/0/100" url="{node16}"/>
+      <hotspot tilt="13.14" description="" title="六号楼" skinid="ht_node" distance="67.083" pan="22.9401" id="Point02" target="57.8312/0/100" url="{node12}"/>
+      <hotspot tilt="7.18" title="school" skinid="ht_info" pan="-240.76" target="" id="school" description="小区东边，马路对面就是回民区政府与财经大学合作办学的一贯制学校，正在筹划中，设计已完成。" url=""/>
+      <hotspot tilt="4.06" description="" title="" skinid="ht_node" distance="485.321" pan="-258.59" id="Point04" target="" url="{node15}"/>
+    </hotspots>
+    <media>
+      <video fov="44.830" nodechangekeep="0" width="1408" handcursor="1" rotx="0.000" tiltsize="10.000" popbackmode="0" level="1.000" loop="1" hidepinned="0" pan="357.620" pansize="10.000" rotz="0.000" id="Element01" ambientlevel="0.000" field="90.000" tilt="-13.370" startmutedmobile="1" clickmode="2" height="1408" mode="3" stretch="1.000" poster="media/_patch_preview.jpg" popoutscaling="100" roty="0.000">
+        <source url="media/_patch1.mp4"/>
+      </video>
+      <image tilt="-25.180" fov="10.230" width="256" handcursor="0" rotx="56.600" clickmode="0" height="256" popbackmode="0" stretch="1.491" hidepinned="0" pan="-8.690" rotz="-0.950" id="Element02" popoutscaling="100" roty="-2.110">
+        <source url="media/_patch_3 .png"/>
+      </image>
+    </media>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomin="0" zoomafterinfov="140" zoomout="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" rubberband="0" hideabout="0" lockedkeyboard="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input width="2638" levelbias="0.400" overlap="1" levelingpitch="0" height="2638" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0">
+      <level preload="0" width="2638" height="2638" predecode="0"/>
+      <level preload="0" width="1319" height="1319" predecode="0"/>
+      <level preload="0" width="659" height="659" predecode="0"/>
+      <level preload="1" width="329" height="329" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node12" source="" customnodeid="" description="" comment="" longitude="111.625555" latitude="40.841851" altitude="867.92" info="" heading="0" title="六号楼" datetime="2025/9/14 星期日 12:50" copyright="" tags="小区" author=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label textcolor="0x000000" backgroundalpha="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" background="1" borderalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="2.36" description="" title="小区北大门" skinid="ht_node" distance="102.755" pan="40.3812" id="Point01" target="118.395/0/100" url="{node13}"/>
+      <hotspot tilt="-4.06" description="" title="恒大翡翠华庭首期大门" skinid="ht_arrow" distance="67.083" pan="-86.74" id="Point02" target="124.941/0/100" url="{node17}"/>
+      <hotspot tilt="4.5" description="" title="" skinid="ht_node" distance="57.5775" pan="-261.58" id="Point03" target="" url="{node16}"/>
+      <hotspot tilt="5.61" title="李子树" skinid="ht_image" pan="-23.04" target="" id="Point04" description="" url="images/image-3.jpg"/>
+      <polyhotspot title="六号楼" target="" id="Poly01" description="" url="">
+        <polystring>-336.26/44.67|-32.41/44.32|-31.98/12.44|-332.75/13.37|-332.6/13</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomin="0" zoomafterinfov="140" zoomout="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" rubberband="0" hideabout="0" lockedkeyboard="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input width="2776" levelbias="0.400" overlap="1" levelingpitch="0" height="2776" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0">
+      <level preload="0" width="2776" height="2776" predecode="0"/>
+      <level preload="0" width="1388" height="1388" predecode="0"/>
+      <level preload="0" width="694" height="694" predecode="0"/>
+      <level preload="1" width="347" height="347" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="228.809">
+      <start tilt="0.11" projection="4" fov="100" pan="-179.56"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node13" source="" customnodeid="" description="" comment="" longitude="111.624521" latitude="40.842343" altitude="54.60" info="" heading="228.809" title="小区北大门" datetime="2025/9/14 星期日 13:05" copyright="" tags="小区" author=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label textcolor="0x000000" backgroundalpha="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" background="1" borderalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="11.36" description="" title="六号楼" skinid="ht_node" distance="102.755" pan="73.9008" id="Point01" target="-27.3196/0/100" url="{node12}"/>
+      <hotspot tilt="0" description="" title="扎达盖河公园" skinid="ht_node" distance="383.619" pan="323.126" id="Point02" target="-102.627/0/100" url="{node14}"/>
+      <hotspot tilt="4.69" description="" title="" skinid="ht_node" distance="63.9955" pan="-317.34" id="Point03" target="" url="{node16}"/>
+      <hotspot tilt="2.95" description="" title="" skinid="ht_node" distance="383.619" pan="-145.25" id="Point04" target="" url="{node14}"/>
+      <hotspot tilt="7" title="健身活动区" skinid="ht_image" pan="-227.71" target="" id="Point05" description="" url="images/image-11.jpg"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomin="0" zoomafterinfov="140" zoomout="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" rubberband="0" hideabout="0" lockedkeyboard="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input width="2995" levelbias="0.400" overlap="1" levelingpitch="0" height="2995" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0">
+      <level preload="0" width="2995" height="2995" predecode="0"/>
+      <level preload="0" width="1497" height="1497" predecode="0"/>
+      <level preload="0" width="748" height="748" predecode="0"/>
+      <level preload="1" width="374" height="374" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="262.785">
+      <start tilt="0.14" projection="4" fov="100" pan="122.86"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node14" source="" customnodeid="" description="" comment="" longitude="111.61997359" latitude="40.84208322" altitude="578.37" info="" heading="262.785" title="扎达盖河公园" datetime="2025/9/14 星期日 13:53" copyright="" tags="外部环境" author=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label textcolor="0x000000" backgroundalpha="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" background="1" borderalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="6.36" description="" title="" skinid="ht_node" distance="878.301" pan="-272.07" id="Point03" target="" url="{node15}"/>
+      <hotspot tilt="3.64" description="" title="" skinid="ht_node" distance="501.438" pan="-211.79" id="Point04" target="" url="{node17}"/>
+      <hotspot tilt="3.92" title="河公园凉厅" skinid="ht_image" pan="-233.88" target="" id="Point01" description="" url="images/image-12.jpg"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomin="0" zoomafterinfov="140" zoomout="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" rubberband="0" hideabout="0" lockedkeyboard="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input width="2776" levelbias="0.400" overlap="1" levelingpitch="0" height="2776" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0">
+      <level preload="0" width="2776" height="2776" predecode="0"/>
+      <level preload="0" width="1388" height="1388" predecode="0"/>
+      <level preload="0" width="694" height="694" predecode="0"/>
+      <level preload="1" width="347" height="347" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="18.7926">
+      <start tilt="3.4" projection="4" fov="100" pan="-59.06"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node15" source="" customnodeid="" description="" comment="" longitude="111.629600" latitude="40.839025" altitude="511.93" info="" heading="18.7926" title="呼钢公园" datetime="2025/9/14 星期日 13:26" copyright="" tags="外部环境" author=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label textcolor="0x000000" backgroundalpha="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" background="1" borderalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-1.81" description="" title="扎达盖河公园" skinid="ht_node_pic" distance="878.301" pan="82.27" id="Point01" target="-61.6019/0/100" url="{node14}"/>
+      <hotspot tilt="0" description="" title="恒大翡翠华庭首期大门" skinid="ht_node_pic" distance="485.321" pan="58.4115" id="Point02" target="-55.0579/0/100" url="{node17}"/>
+      <hotspot tilt="3.22" title="呼钢公园健步道" skinid="ht_image" pan="-211.87" target="" id="Point03" description="" url="images/image-4.jpg"/>
+      <hotspot tilt="3.31" title="呼钢公园健身区" skinid="ht_image" pan="-217.72" target="" id="Point04" description="" url="images/image-6.jpg"/>
+      <hotspot tilt="3.15" title="呼钢公园健身区2" skinid="ht_image" pan="-223.92" target="" id="Point05" description="" url="images/2.jpg"/>
+      <hotspot tilt="3.19" title="呼钢公园篮球场" skinid="ht_image" pan="-230.41" target="" id="Point06" description="" url="images/image-7.jpg"/>
+      <hotspot tilt="3.25" title="呼钢公园乒乓球活动场地" skinid="ht_image" pan="-236.9" target="" id="Point07" description="" url="images/image-8.jpg"/>
+      <hotspot tilt="3.26" title="呼钢公园小路" skinid="ht_image" pan="-243.42" target="" id="Point09" description="" url="images/image-9.jpg"/>
+      <hotspot tilt="3.08" title="呼钢公园一角" skinid="ht_image" pan="-249.75" target="" id="Point10" description="" url="images/image-10.jpg"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomin="0" zoomafterinfov="140" zoomout="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" rubberband="0" hideabout="0" lockedkeyboard="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input width="2640" levelbias="0.400" overlap="1" levelingpitch="0" height="2640" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelingroll="0">
+      <level preload="0" width="2640" height="2640" predecode="0"/>
+      <level preload="0" width="1320" height="1320" predecode="0"/>
+      <level preload="0" width="660" height="660" predecode="0"/>
+      <level preload="1" width="330" height="330" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" fov="140" pan="360" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata nodeid="node16" source="" customnodeid="" description="" comment="" longitude="111.624871" latitude="40.841832" altitude="894.20" info="" heading="0" title="小区中心湖" datetime="2025/9/14 星期日 12:55" copyright="" tags="小区" author=""/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label textcolor="0x000000" backgroundalpha="1" width="180" backgroundcolor="0xffffff" height="20" textalpha="1" enabled="1" bordercolor="0x000000" borderradius="1" background="1" borderalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="3.68" title="中心湖凉厅" skinid="ht_image" pan="-28.11" target="" id="Point03" description="" url="images/image.jpg"/>
+      <hotspot tilt="4" description="" title="" skinid="ht_node" distance="57.5775" pan="-56.23" id="Point01" target="" url="{node12}"/>
+      <hotspot tilt="4.08" description="" title="" skinid="ht_node" distance="63.9955" pan="-339.03" id="Point02" target="" url="{node13}"/>
+      <hotspot tilt="2.89" title="行人休息处" skinid="ht_image" pan="-39.67" target="" id="Point04" description="" url="images/image-1.jpg"/>
+      <hotspot tilt="-0.78" title="儿童游乐区" skinid="ht_image" pan="-276.09" target="" id="Point05" description="" url="images/image-2.jpg"/>
+    </hotspots>
+    <media>
+      <video fov="24.260" nodechangekeep="0" width="768" handcursor="1" rotx="0.000" tiltsize="10.000" popbackmode="0" level="1.000" loop="1" hidepinned="0" pan="-101.870" pansize="10.000" rotz="0.000" id="Element01" ambientlevel="0.000" field="90.000" tilt="-6.130" startmutedmobile="1" clickmode="2" height="768" mode="3" stretch="1.000" popoutscaling="100" roty="0.000">
+        <source url="media/_patch-3.mp4"/>
+      </video>
+    </media>
+    <transition zoomafteroutfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomin="0" zoomafterinfov="140" zoomout="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="40"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" rubberband="0" hideabout="0" lockedkeyboard="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" description="" comment="" copyright="" tags="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
