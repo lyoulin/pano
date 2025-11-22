@@ -151,8 +151,8 @@
       <hotspot tilt="3.08" title="呼钢公园一角" skinid="ht_image" pan="-249.75" target="" id="Point10" description="" url="images/image-10.jpg"/>
     </hotspots>
     <media>
-      <video fov="33.199" nodechangekeep="0" width="1088" handcursor="0" rotx="0.000" tiltsize="10.000" popbackmode="0" level="1.000" loop="1" hidepinned="0" pan="-66.410" pansize="10.000" rotz="0.000" id="Element01" ambientlevel="0.000" field="90.000" tilt="2.640" startmutedmobile="0" clickmode="0" height="1088" mode="0" stretch="1.000" popoutscaling="100" roty="0.000">
-        <source url="media/_patch.mp4"/>
+      <video fov="33.199" nodechangekeep="0" width="1088" handcursor="0" rotx="0.000" tiltsize="10.000" popbackmode="0" level="1.000" loop="1" hidepinned="0" pan="-66.000" pansize="10.000" rotz="0.000" id="Element01" ambientlevel="0.000" field="90.000" tilt="-1.180" startmutedmobile="0" clickmode="0" height="1088" mode="0" stretch="1.000" poster="media/呼钢公园_patch_1_preview.jpg" popoutscaling="100" roty="0.000">
+        <source url="media/_patch_1.mp4"/>
       </video>
     </media>
     <transition zoomafteroutfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomin="0" zoomafterinfov="140" zoomout="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="40"/>
