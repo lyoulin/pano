@@ -150,7 +150,11 @@
       <hotspot tilt="3.26" title="呼钢公园小路" skinid="ht_image" pan="-243.42" target="" id="Point09" description="" url="images/image-9.jpg"/>
       <hotspot tilt="3.08" title="呼钢公园一角" skinid="ht_image" pan="-249.75" target="" id="Point10" description="" url="images/image-10.jpg"/>
     </hotspots>
-    <media/>
+    <media>
+      <video fov="33.199" nodechangekeep="0" width="1088" handcursor="0" rotx="0.000" tiltsize="10.000" popbackmode="0" level="1.000" loop="1" hidepinned="0" pan="-66.410" pansize="10.000" rotz="0.000" id="Element01" ambientlevel="0.000" field="90.000" tilt="2.640" startmutedmobile="0" clickmode="0" height="1088" mode="0" stretch="1.000" popoutscaling="100" roty="0.000">
+        <source url="media/_patch.mp4"/>
+      </video>
+    </media>
     <transition zoomafteroutfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomin="0" zoomafterinfov="140" zoomout="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomfov="40"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
     <control dblclickfullscreen="0" invertcontrol="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" contextprojections="0" simulatemass="1" contextvr="1" contextfullscreen="1" sensitivity="8" rubberband="0" hideabout="0" lockedkeyboard="0" lockedmouse="0" invertwheel="0" zoomcentercursor="1"/>
